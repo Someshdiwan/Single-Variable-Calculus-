@@ -39,4 +39,3 @@ Reporting issues Suggesting new features
 Submitting pull requests for improvements
 
 ```
-
