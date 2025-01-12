@@ -1,0 +1,46 @@
+What is SVC (Single Variable Calculus)?
+
+Single Variable Calculus (SVC) is a branch of calculus that deals with functions of a single independent variable. It focuses on understanding and analyzing the behavior of these functions using the concepts of differentiation and integration.
+
+---
+
+Key Concepts in SVC:
+
+1. Functions of One Variable:**
+   - A function (f(x)) depends on a single variable ( x).
+   - Example: (f(x) = x^2 + 3x + 5 ).
+
+2. Limits:
+   - The value a function approaches as the input ( x ) approaches a certain point.
+   - Example: (lim{x to 2} (x^2 + 3x) = 10).
+
+3. Differentiation:
+   - The process of finding the rate of change (slope) of a function at a point.
+   - Example: If (f(x) = x^2), the derivative is (f'(x) = 2x).
+   
+   - Applications:
+     - Finding maxima and minima.
+     - Analyzing the slope of tangents.
+     - Velocity and acceleration in physics.
+
+4. Integration:
+   - The process of finding the area under the curve of a function or the reverse operation of differentiation.
+   - Example: The integral of (f(x) = x^2) is (int x^2 dx = {x^3}{3} + C).
+   
+   - Applications:
+     - Calculating areas and volumes.
+     - Solving differential equations.
+     - Accumulating quantities like distance or energy.
+
+5. Applications:
+   - Physics: Motion, forces, and energy analysis.
+   - Economics: Optimization of profit and cost functions.
+   - Biology: Modeling growth and decay.
+   - Engineering: Analyzing stress and strain in materials.
+
+---
+
+Why is SVC Important?
+
+SVC provides foundational tools to model and solve real-world problems involving change and accumulation. 
+It builds the groundwork for more advanced calculus topics, such as multivariable calculus, differential equations, and vector calculus.
